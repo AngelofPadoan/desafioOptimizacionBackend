@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "title": "Producto 2",
+      "description": "Descripción del producto 1",
+      "code": "P0001",
+      "price": "1000",
+      "status": true,
+      "stock": 10,
+      "category": "Categoría 1",
+      "thumbnails": [
+        "url/to/image1.jpg",
+        "url/to/image2.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Producto 2",
+      "description": "Descripción del producto 2",
+      "code": "P0002",
+      "price": 150,
+      "status": true,
+      "stock": 5,
+      "category": "Categoría 2",
+      "thumbnails": [
+        "url/to/image3.jpg",
+        "url/to/image4.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "sad",
+      "price": "40"
+    },
+    {
+      "id": 4,
+      "title": "sad",
+      "price": "40"
+    }
+  ]
